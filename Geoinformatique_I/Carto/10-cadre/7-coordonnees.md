@@ -22,6 +22,8 @@ L'ellipsoïde qui permet d'approcher la forme du géoïde peut prendre plusieurs
 
 Par contre, une fois que nous avons sélectionné un ellipsoïde de notre choix, il est possible d'y superposer une grille permettant de créer un système de coordonnées. Il s'agit de la grille des méridiens et parallèles:
 
+---
+
 <div style="display: flex;">
   <div style="flex: 1;">
     <p>Les <b>parallèles</b> sont définis par rapport à l'<b>équateur</b>. L'équateur est le **grand cercle** qui est perpendiculaire à l'axe de rotation de la Terre. (Un grand cercle est un cercle qui passe par le centre de l'ellipsoïde ou de la sphère).</p>

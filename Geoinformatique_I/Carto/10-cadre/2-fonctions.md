@@ -17,7 +17,7 @@ Une carte peut être une manière **d'enregistrer** et de **gérer** une informa
 
 La carte peut aussi être un moyen **d'analyser** la localisation et la distribution de phénomènes spatiaux. Ainsi, elles permettent typiquement de révéler des structures spatiales. Comme exemple, nous pouvons imaginer une carte thématique de la densité de la population d'une région donnée, comme cette capture d'écran de l'[Atlas statistique du canton de Vaud montrant la densité de population en 2020 pour les communes vaudoises](https://cartostat.vd.ch/#c=indicator&i=pop_natio.dens&s=2020&view=map1) : 
 
-<img src="assets/screenshot-popdens-2020.png" alt="Densité de population des communes vaudoises, en 2020" style="border: 1px solid #999;" /> 
+![Densité de population des communes vaudoises, en 2020](assets/screenshot-popdens-2020.png) 
 
 Sur cette carte, nous pouvons *localiser* les valeurs de densité de population (le phénomène spatial), et révéler la structure spatiale (principalement la concentration de la population le long du Léman). 
 

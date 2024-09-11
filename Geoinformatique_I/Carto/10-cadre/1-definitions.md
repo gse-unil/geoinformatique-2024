@@ -14,8 +14,8 @@ Parmi les possibles définitions, nous allons en retenir deux:
 
 <div style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; background-color: #fff0dd;">
   «Une <b>carte</b> est une image construite au moyen d'un <i>langage symbolique explicite</i> et basée sur une <i>relation analogique</i> à un <i>espace de référence</i>.»  
-  <small>{cite}`levy-lussault-2013`</small>
 </div>
+{cite}`levy-lussault-2013`
 
 et
 
@@ -23,8 +23,8 @@ et
 «Une <b>carte</b> est une image simplifiée et codifiée de l’espace 
 géographique, qui représente ses caractéristiques et/ou son 
 organisation. Elle résulte de l’acte créateur et des choix de son auteur.»  
-<small>{cite}`lambert-zanin-2016`</small>
 </div>
+{cite}`lambert-zanin-2016`
 
 Les points importants dans ces définitions sont:
 

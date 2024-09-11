@@ -24,10 +24,10 @@ La carte thématique est plus spécifique qu'une carte topographique, elle est d
 
 Le thème d'une carte thématique ressort souvent du **domaine de l'invisible interprété**. Voici deux exemples de cartes thématiques:
 
-<img style="border: 1px solid #ccc;" src="assets/carte-geologique.gif" alt="Carte géologique de la Suisse" /><br>
+![Carte géologique de la Suisse](assets/carte-geologique.gif)  
 <small>Source: Swisstopo / <a href="https://www.nagra.ch/fr/geologiedelasuisse.htm">www.nagra.ch/fr/geologiedelasuisse.htm</a></small>
 
-<img style="border: 1px solid #ccc;" src="assets/vieillissement-ch.gif" alt="Carte du vieillissement en Suisse, en 2000" /><br>
+![Carte du vieillissement en Suisse, en 2000](assets/vieillissement-ch.gif)  
 <small>Source: Office fédéral de la statistique</small>
 
 Dans les deux cas, le thème de la carte nécessite une récolte de données importante. Le contenu de la carte ne peut typiquement pas être construit en consultant une photo aérienne.
