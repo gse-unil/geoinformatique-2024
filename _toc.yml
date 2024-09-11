@@ -4,33 +4,31 @@
 format: jb-book
 root: index
 parts:
-- caption: Partie 1 - géoinformatique I
+- caption: Partie 1 - Géoinformatique I
   numbered: true
   chapters:
-    - file: Geoinformatique_I/Carto/Intro_Carto/intro_carto.ipynb
+    - file: Geoinformatique_I/Carto/index.md
       title: Cartographie
       sections:
-        - file: Geoinformatique_I/Carto/Intro_Carto/S1_carto.ipynb
-          title: Chapitre 1 - Cadre général
+        - file: Geoinformatique_I/Carto/10-cadre/0-intro.md
+          title: Cadre général
           sections:
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S1_Carto_tutoriel/0-definitions.md
-              title: Tutoriel 1 - Définitions
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S1_Carto_tutoriel/1-fonctions.md
-              title: Tutoriel 1 - Fonctions
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S1_Carto_tutoriel/2-caracteristiques.md
-              title: Tutoriel 1 - Caractéristiques
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S1_Carto_tutoriel/3-echelle.md
-              title: Tutoriel 1 - Echelle
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S1_Carto_tutoriel/4-topo-vs-thematique.md
-              title: Tutoriel 1 - Topo VS Thématique
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S1_Carto_tutoriel/5-exemples.md
-              title: Tutoriel 1 - Exemples
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S1_Carto_tutoriel/6-coordonnees.md
-              title: Tutoriel 1 - Coordonnées
-            - file: Geoinformatique_I/Carto/Exercices_Carto/S1_Carto_exercice.ipynb
-              title: Exercice 1
+            - file: Geoinformatique_I/Carto/10-cadre/1-definitions.md
+              title: Définitions
+            - file: Geoinformatique_I/Carto/10-cadre/2-fonctions.md
+              title: Fonctions
+            - file: Geoinformatique_I/Carto/10-cadre/3-caracteristiques.md
+              title: Caractéristiques
+            - file: Geoinformatique_I/Carto/10-cadre/4-echelle.md
+              title: Echelle
+            - file: Geoinformatique_I/Carto/10-cadre/5-topo-vs-thematique.md
+              title: Topo VS Thématique
+            - file: Geoinformatique_I/Carto/10-cadre/6-exemples.md
+              title: Exemples
+            - file: Geoinformatique_I/Carto/10-cadre/7-coordonnees.md
+              title: Coordonnées
         - file: Geoinformatique_I/Carto/Intro_Carto/S2_carto.ipynb
-          title: Chapitre 2 - Modélisation du territoire, généralisation
+          title: Modèles du territoire
           sections:
             - file: Geoinformatique_I/Carto/Tutoriel_Carto/S2_Carto_tutoriel/1-modele-realite.md
               title: Tutoriel 2 - Modélisation de la réalité

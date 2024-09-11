@@ -24,7 +24,7 @@ Par contre, une fois que nous avons sélectionné un ellipsoïde de notre choix,
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <p>Les <b>parallèles</b> sont définis par rapport à l'**équateur**. L'équateur est le **grand cercle** qui est perpendiculaire à l'axe de rotation de la Terre. (Un grand cercle est un cercle qui passe par le centre de l'ellipsoïde ou de la sphère).</p>
+    <p>Les <b>parallèles</b> sont définis par rapport à l'<b>équateur</b>. L'équateur est le **grand cercle** qui est perpendiculaire à l'axe de rotation de la Terre. (Un grand cercle est un cercle qui passe par le centre de l'ellipsoïde ou de la sphère).</p>
     <p>Un *parallèle* est un cercle qui est parallèle à l'équateur, et qui est donc en conséquence perpendiculaire à l'axe de rotation.</p>
   </div>
   <div style="flex: 1; padding-left: 15px;">
