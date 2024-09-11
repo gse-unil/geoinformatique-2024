@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.envrc
+
+# macOS specific files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Build result
+_build/
