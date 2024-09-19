@@ -27,21 +27,17 @@ parts:
               title: Exemples
             - file: Geoinformatique_I/Carto/10-cadre/7-coordonnees.md
               title: Coordonnées
-        - file: Geoinformatique_I/Carto/Intro_Carto/S2_carto.ipynb
+        - file: Geoinformatique_I/Carto/15-modele-realite/1-modele-realite.md
           title: Modèles du territoire
           sections:
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S2_Carto_tutoriel/1-modele-realite.md
-              title: Tutoriel 2 - Modélisation de la réalité
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S2_Carto_tutoriel/2-modvec.md
-              title: Tutoriel 2 - Le modèle vectoriel
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S2_Carto_tutoriel/3-modrast.md
-              title: Tutoriel 2 - Le modèle raster
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S2_Carto_tutoriel/4-layer.md
-              title: Tutoriel 2 - La notion de couche
-            - file: Geoinformatique_I/Carto/Tutoriel_Carto/S2_Carto_tutoriel/5-sfs.md
-              title: Tutoriel 2 - La simple feature specification (SFS)
-            - file: Geoinformatique_I/Carto/Exercices_Carto/S2_Carto_exercice.ipynb
-              title: Exercice 2
+            - file: Geoinformatique_I/Carto/15-modele-realite/2-modvec.md
+              title: Le modèle vectoriel
+            - file: Geoinformatique_I/Carto/15-modele-realite/3-modrast.md
+              title: Le modèle raster
+            - file: Geoinformatique_I/Carto/15-modele-realite/4-layer.md
+              title: La notion de couche
+            - file: Geoinformatique_I/Carto/15-modele-realite/5-sfs.md
+              title: Simple Feature Specification
         - file: Geoinformatique_I/Carto/Intro_Carto/S3_carto.ipynb
           title: Chapitre 3 - Types de cartes, sémiologie graphique, règles de représentation
           sections:

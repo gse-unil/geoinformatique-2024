@@ -24,43 +24,32 @@ Par contre, une fois que nous avons sélectionné un ellipsoïde de notre choix,
 
 ---
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <p>Les <b>parallèles</b> sont définis par rapport à l'<b>équateur</b>. L'équateur est le **grand cercle** qui est perpendiculaire à l'axe de rotation de la Terre. (Un grand cercle est un cercle qui passe par le centre de l'ellipsoïde ou de la sphère).</p>
-    <p>Un *parallèle* est un cercle qui est parallèle à l'équateur, et qui est donc en conséquence perpendiculaire à l'axe de rotation.</p>
-  </div>
-  <div style="flex: 1; padding-left: 15px;">
-    <img src="assets/latitude.png">
-  </div>
-</div>
+Les **parallèles** sont définis par rapport à l'**équateur**. L'équateur est le **grand cercle** qui est perpendiculaire à l'axe de rotation de la Terre. (Un grand cercle est un cercle qui passe par le centre de l'ellipsoïde ou de la sphère).
 
-<hr />
+Un *parallèle* est un cercle qui est parallèle à l'équateur, et qui est donc en conséquence perpendiculaire à l'axe de rotation.
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <p>Les <b>méridiens</b> sont des grands cercles qui passent par les deux pôles (les pôles sont définies grace à l'axe de rotation de la Terre). Ils coupent l'équateur dans un angle droit.</p>
-    <p>Un des méridiens, celui qui passe par Greenwich à Londres, est considéré comme étant le méridien primaire (<i>prime meridian</i> en anglais).</p>
-  </div>
-  <div style="flex: 1; padding-left: 15px;">
-    <img src="assets/longitude.png">
-  </div>
-</div>
+![](assets/latitude.png)
 
-<hr/>
+---
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <p>Chaque point P sur Terre sera donc forcément localisé sur exactement un méridien et un parallèle. On peut ensuite simplement mesurer deux angles:</p>
-    <ul>
-        <li>L'angle entre le point P et le cercle de l'équateur. Cet angle s'appelle la <b>latitude</b>.</li>
-        <li>L'angle entre le point P et le méridien primaire (donc le cercle qui passe par les deux pôles et Greenwich). Cet angle s'appelle la <b>longitude</b>.
-    </ul>
-    <p>Ces angles sont évidemment mesurés en degrés.</p>
-  </div>
-  <div style="flex: 1; padding-left: 15px;">
-    <img src="assets/lat_long.gif">
-  </div>
-</div>
+Les **méridiens** sont des grands cercles qui passent par les deux pôles (les pôles sont définies grace à l'axe de rotation de la Terre). Ils coupent l'équateur dans un angle droit.
+
+Un des méridiens, celui qui passe par Greenwich à Londres, est considéré comme étant le méridien primaire (<i>prime meridian</i> en anglais).</p>
+
+![](assets/longitude.png)
+
+---
+
+Chaque point P sur Terre sera donc forcément localisé sur exactement un méridien et un parallèle. On peut ensuite simplement mesurer deux angles:
+
+- L'angle entre le point P et le cercle de l'équateur. Cet angle s'appelle la **latitude**.
+- L'angle entre le point P et le méridien primaire (donc le cercle qui passe par les deux pôles et Greenwich). Cet angle s'appelle la **longitude**.
+
+Ces angles sont évidemment mesurés en degrés.
+
+![](assets/lat_long.gif)
+
+---
 
 Ce sont donc les méridiens et parallèles qui nous permettent de définir un **système de coordonnées géographique** pour **tous les points qui se trouvent sur la surface terrestre**.
 

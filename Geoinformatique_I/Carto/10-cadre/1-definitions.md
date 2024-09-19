@@ -13,18 +13,18 @@ La carte en tant que telle a connu plus qu'une définition tout au long de son h
 Parmi les possibles définitions, nous allons en retenir deux:
 
 <div style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; background-color: #fff0dd;">
-  «Une <b>carte</b> est une image construite au moyen d'un <i>langage symbolique explicite</i> et basée sur une <i>relation analogique</i> à un <i>espace de référence</i>.»  
+  «Une <b>carte</b> est une image construite au moyen d'un <i>langage symbolique explicite</i> et basée sur une <i>relation analogique</i> à un <i>espace de référence</i>.»
+  <div style="font-size: 70%; margin-top: 5px;">Lévy, Jacques & Lussault, Michel (2013). <i>Dictionnaire de la géographie et de l'espace des sociétés.</i> Belin.</div>
 </div>
-{cite}`levy-lussault-2013`
 
 et
 
 <div style="border: 1px solid #ccc; padding: 15px; margin: 15px 0; background-color: #fff0dd;">
 «Une <b>carte</b> est une image simplifiée et codifiée de l’espace 
 géographique, qui représente ses caractéristiques et/ou son 
-organisation. Elle résulte de l’acte créateur et des choix de son auteur.»  
+organisation. Elle résulte de l’acte créateur et des choix de son auteur.»
+  <div style="font-size: 70%; margin-top: 5px;">Lambert, Nicolas Lambert & Zanin, Christine (2016). <i>Manuel de cartographie. Principes, méthodes, applications.</i> Armand Colin.</div>
 </div>
-{cite}`lambert-zanin-2016`
 
 Les points importants dans ces définitions sont:
 
