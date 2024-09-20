@@ -1,7 +1,0 @@
-title = "Généralisation cartographique"
-
-description = """\
-Processus d'abstraction cartographique, \
-avec présentation des différents opérateurs de généralisation. \
-Rôle de la généralisation pour la lisibilité de la carte.
-"""

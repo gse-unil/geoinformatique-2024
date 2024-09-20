@@ -1,6 +1,0 @@
-title = "Discrétisation cartographique"
-
-description = """\
-La discrétisation, appelée aussi mise en classe, permet de transformer des valeurs continues \
-en classes de valeurs, en vue d'une représentation graphique.\
-"""

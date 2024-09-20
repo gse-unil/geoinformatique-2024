@@ -38,7 +38,26 @@ parts:
               title: La notion de couche
             - file: Geoinformatique_I/Carto/15-modele-realite/5-sfs.md
               title: Simple Feature Specification
-
+        - file: Geoinformatique_I/Carto/20-types-cartes/0-intro.md
+          title: Types de cartes thématiques
+          sections:
+            - file: Geoinformatique_I/Carto/20-types-cartes/1-choro.md
+              title: Carte choroplèthe
+            - file: Geoinformatique_I/Carto/20-types-cartes/2-symb-prop.md
+              title: Carte en symboles proportionnels
+            - file: Geoinformatique_I/Carto/20-types-cartes/3-symb-prop-col.md
+              title: Carte en symboles proportionnels colorés
+            - file: Geoinformatique_I/Carto/20-types-cartes/4-courbes.md
+              title: Carte en courbes
+            - file: Geoinformatique_I/Carto/20-types-cartes/5-points.md
+              title: Carte en points
+            - file: Geoinformatique_I/Carto/20-types-cartes/6-anamorphoses.md
+              title: Anamorphose
+            - file: Geoinformatique_I/Carto/20-types-cartes/7-flux.md
+              title: Carte de flux
+            - file: Geoinformatique_I/Carto/20-types-cartes/8-resume.md
+              title: Et encore...
+            
     - file: Geoinformatique_I/IP/Intro_IP/intro_python.ipynb
       title: Programmation Python
       sections:
