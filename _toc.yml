@@ -57,7 +57,10 @@ parts:
               title: Carte de flux
             - file: Geoinformatique_I/Carto/20-types-cartes/8-resume.md
               title: Et encore...
-            
+        - file: Geoinformatique_I/Carto/21-fond-de-carte/0-intro.md
+          title: Le fond de carte
+        - file: Geoinformatique_I/Carto/22-generalisation/0-intro.md
+          title: Généralisation cartographique
     - file: Geoinformatique_I/IP/Intro_IP/intro_python.ipynb
       title: Programmation Python
       sections:
