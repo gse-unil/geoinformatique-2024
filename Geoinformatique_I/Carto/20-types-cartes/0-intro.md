@@ -1,4 +1,4 @@
-# Types de cartes
+# Types de cartes thématiques
 
 Nous avons déjà vu la différence entre une carte topographique et une carte thématique. Nous allons voir ici les différents types de **cartes thématiques** et laisser de côté les cartes topographiques. En effet, il est très rare que l'on soit amené à créer une nouvelle carte topographique, et si ça arrive quand même, on peut se référer à une des nombreuses cartes topographiques déjà existante. Par contre, la création d'une carte thématique est une chose très commune. Connaître les différents types de cartes thématiques permettra de faire le bon choix de représentation du phénomène à cartographier.
 
