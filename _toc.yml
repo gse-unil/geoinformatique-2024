@@ -63,6 +63,19 @@ parts:
           title: Généralisation cartographique
         - file: Geoinformatique_I/Carto/23-topologie/0-intro.md
           title: Topologie
+        - file: Geoinformatique_I/Carto/30-semiologie/0-intro.md
+          title: Sémiologie graphique
+          sections:
+            - file: Geoinformatique_I/Carto/30-semiologie/1-qualite.md
+              title: Déterminer la qualité d'une visualisation
+            - file: Geoinformatique_I/Carto/30-semiologie/2-var-visuelles.md
+              title: Les variables visuelles
+            - file: Geoinformatique_I/Carto/30-semiologie/3-types-donnees.md
+              title: Les types de données
+            - file: Geoinformatique_I/Carto/30-semiologie/4-regles.md
+              title: Les règles de sémiologie graphique
+            - file: Geoinformatique_I/Carto/30-semiologie/5-esthetique.md
+              title: Conseils esthétiques et pratiques
     - file: Geoinformatique_I/IP/Intro_IP/intro_python.ipynb
       title: Programmation Python
       sections:
