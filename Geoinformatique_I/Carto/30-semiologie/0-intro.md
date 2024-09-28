@@ -23,8 +23,9 @@ Le rôle de la sémiologie graphique et d'organiser les signes, symboles et les 
 
 Un peu plus tard, nous allons regarder les principales variables visuelles ainsi que les différents types de données, pour finalement combiner les deux pour arriver aux règles de la sémiologie graphique. Mais avant cela, nous allons découvrir comment on peut déterminer si une carte ou un graphique est bon ou pas, pour arriver aux principes qui déterminent la qualité d'une visualisation. Dans ce petit voyage, nous allons traiter des cartes, surtout des cartes thématiques, mais aussi d'autres types de visualisations comme les graphiques. Les principes qui déterminent la qualité d'une carte ou d'un diagramme sortant d'Excel sont les mêmes, et les différences entre les différentes formes de visualisation sont relativement petites.
 
+---
 
-## Références
+**Références**:
 
 Bertin, J. (1967). <i>Sémiologie Graphique. Les diagrammes, les réseaux, les cartes.</i> Paris, La Haye, Mouton, Gauthier-Villars, 1967. 2e édition: 1973, 3e édition: 1999, EHESS, Paris.
 
