@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 447.2 193.5" style="enable-background:new 0 0 447.2 193.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:none;stroke:#D2232A;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{font-family:'FrutigerLTStd-Roman';}
+	.st4{font-size:10px;}
+	.st5{font-size:8px;}
+	.st6{fill:none;stroke:#214098;stroke-linecap:round;stroke-linejoin:round;}
+	.st7{fill:none;stroke:#214098;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.9943,2.9915;}
+	.st8{fill:none;stroke:#214098;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.2474,1.8711;}
+	.st9{fill:none;stroke:#214098;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.9974,1.9948;}
+	.st10{fill:none;stroke:#214098;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.9914,1.9942;}
+	.st11{fill:none;stroke:#214098;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.123,1.4153;}
+</style>
+<g id="Layer_2_00000039852357573787953800000002417739189794451386_" class="st0">
+	
+		<image style="display:inline;overflow:visible;enable-background:new    ;" width="1296" height="489" xlink:href="EC1B14F6.png"  transform="matrix(0.3455 0 0 0.3455 4.8421 6.1368)">
+	</image>
+</g>
+<g id="Layer_1_00000129904275763627034370000000063458750928693888_">
+	<g>
+		<polyline class="st1" points="161,122.7 162.1,122.6 163.3,122.6 164.5,122.6 165.7,122.6 166.9,122.6 168,122.5 169.2,122.5 
+			170.4,122.4 171.6,122.3 172.8,122.3 173.9,122.1 175.1,122 176.3,121.8 177.5,121.5 178.7,121.2 179.8,120.9 181,120.5 
+			182.2,119.9 183.4,119.3 184.6,118.6 185.8,117.7 186.9,116.8 188.1,115.6 189.3,114.3 190.5,112.8 191.7,111.1 192.8,109.3 
+			194,107.2 195.2,104.9 196.4,102.4 197.6,99.8 198.7,96.9 199.9,93.9 201.1,90.7 202.3,87.4 203.5,84.1 204.6,80.6 205.8,77.2 
+			207,73.8 208.2,70.5 209.4,67.4 210.5,64.4 211.7,61.7 212.9,59.3 214.1,57.2 215.3,55.4 216.4,54.1 217.6,53.2 218.8,52.7 
+			220,52.7 221.2,53.2 222.3,54.1 223.5,55.4 224.7,57.2 225.9,59.3 227.1,61.7 228.2,64.4 229.4,67.4 230.6,70.5 231.8,73.8 
+			233,77.2 234.1,80.6 235.3,84.1 236.5,87.4 237.7,90.7 238.9,93.9 240,96.9 241.2,99.8 242.4,102.4 243.6,104.9 244.8,107.2 
+			245.9,109.3 247.1,111.1 248.3,112.8 249.5,114.3 250.7,115.6 251.8,116.8 253,117.7 254.2,118.6 255.4,119.3 256.6,119.9 
+			257.7,120.5 258.9,120.9 260.1,121.2 261.3,121.5 262.5,121.8 263.6,122 264.8,122.1 266,122.3 267.2,122.3 268.4,122.4 
+			269.5,122.5 270.7,122.5 271.9,122.6 273.1,122.6 274.3,122.6 275.4,122.6 276.6,122.6 277.8,122.7 		"/>
+	</g>
+	<line class="st2" x1="13.1" y1="123.9" x2="145.8" y2="123.9"/>
+	<line class="st2" x1="157.2" y1="123.9" x2="289.9" y2="123.9"/>
+	<line class="st2" x1="301.3" y1="123.9" x2="434" y2="123.9"/>
+	<text transform="matrix(1 0 0 1 36.6832 139.5363)" class="st3 st4">Distribution</text>
+	<text transform="matrix(1 0 0 1 32.2832 149.5363)" class="st3 st4">dissymétrique</text>
+	<text transform="matrix(1 0 0 1 43.3832 159.5363)" class="st3 st4">à gauche</text>
+	<text transform="matrix(1 0 0 1 26.5187 41.4474)" class="st3 st5">Mode</text>
+	<text transform="matrix(1 0 0 1 396.573 41.4474)" class="st3 st5">Mode</text>
+	<text transform="matrix(1 0 0 1 85.1177 41.5431)" class="st3 st5">Moyenne</text>
+	<text transform="matrix(1 0 0 1 29.9618 178.1704)" class="st3 st5">Médiane &lt; Moyenne</text>
+	<text transform="matrix(1 0 0 1 180.7549 178.1704)" class="st3 st5">Médiane = Moyenne</text>
+	<text transform="matrix(1 0 0 1 331.5481 178.1704)" class="st3 st5">Médiane &gt; Moyenne</text>
+	<text transform="matrix(1 0 0 1 323.6819 41.5431)" class="st3 st5">Moyenne</text>
+	<text transform="matrix(1 0 0 1 201.827 14.3413)" class="st3 st5">Moyenne</text>
+	<text transform="matrix(1 0 0 1 202.927 24.3413)" class="st3 st5">Médiane</text>
+	<text transform="matrix(1 0 0 1 208.527 34.3413)" class="st3 st5">Mode</text>
+	<text transform="matrix(1 0 0 1 362.3734 24.5454)" class="st3 st5">Médiane</text>
+	<text transform="matrix(1 0 0 1 48.7309 24.5454)" class="st3 st5">Médiane</text>
+	<text transform="matrix(1 0 0 1 191.6029 139.5363)" class="st3 st4">Distribution</text>
+	<text transform="matrix(1 0 0 1 193.5029 149.5363)" class="st3 st4">symétrique</text>
+	<text transform="matrix(1 0 0 1 348.8941 139.5363)" class="st3 st4">Distribution</text>
+	<text transform="matrix(1 0 0 1 344.4941 149.5363)" class="st3 st4">dissymétrique</text>
+	<text transform="matrix(1 0 0 1 358.2941 159.5363)" class="st3 st4">à droite</text>
+	<path class="st1" d="M27.1,122.8C37.7,96,43.8,55,58.9,55c15.4,0,18.9,18,32.5,42.4s28.1,25.9,28.1,25.9"/>
+	<g>
+		<g>
+			<line class="st6" x1="58.9" y1="123.9" x2="58.9" y2="122.9"/>
+			<line class="st7" x1="58.9" y1="119.9" x2="58.9" y2="41.7"/>
+			<polyline class="st6" points="58.9,40.2 58.9,39.2 57.9,39.2 			"/>
+			<line class="st8" x1="56" y1="39.2" x2="53.9" y2="39.2"/>
+			<line class="st6" x1="52.9" y1="39.2" x2="51.9" y2="39.2"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st6" x1="65.2" y1="28.2" x2="65.2" y2="28.7"/>
+			<line class="st9" x1="65.2" y1="30.7" x2="65.2" y2="122.4"/>
+			<line class="st6" x1="65.2" y1="123.4" x2="65.2" y2="123.9"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st6" x1="219.4" y1="39.2" x2="219.4" y2="40.2"/>
+			<line class="st7" x1="219.4" y1="43.2" x2="219.4" y2="121.4"/>
+			<line class="st6" x1="219.4" y1="122.9" x2="219.4" y2="123.9"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st6" x1="73.3" y1="123.9" x2="73.3" y2="122.4"/>
+			<line class="st10" x1="73.3" y1="120.4" x2="73.3" y2="41.7"/>
+			<polyline class="st6" points="73.3,40.7 73.3,39.2 74.8,39.2 			"/>
+			<line class="st11" x1="76.2" y1="39.2" x2="79.1" y2="39.2"/>
+			<line class="st6" x1="79.8" y1="39.2" x2="81.3" y2="39.2"/>
+		</g>
+	</g>
+	<path class="st1" d="M416.9,122.8C406.3,96,400.2,55,385.1,55c-15.4,0-18.9,18-32.5,42.4s-28.1,25.9-28.1,25.9"/>
+	<g>
+		<g>
+			<line class="st6" x1="385.1" y1="123.9" x2="385.1" y2="122.9"/>
+			<line class="st7" x1="385.1" y1="119.9" x2="385.1" y2="41.7"/>
+			<polyline class="st6" points="385.1,40.2 385.1,39.2 386.1,39.2 			"/>
+			<line class="st8" x1="388" y1="39.2" x2="390.1" y2="39.2"/>
+			<line class="st6" x1="391.1" y1="39.2" x2="392.1" y2="39.2"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st6" x1="378.8" y1="28.2" x2="378.8" y2="28.7"/>
+			<line class="st9" x1="378.8" y1="30.7" x2="378.8" y2="122.4"/>
+			<line class="st6" x1="378.8" y1="123.4" x2="378.8" y2="123.9"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st6" x1="370.7" y1="123.9" x2="370.7" y2="122.4"/>
+			<line class="st10" x1="370.7" y1="120.4" x2="370.7" y2="41.7"/>
+			<polyline class="st6" points="370.7,40.7 370.7,39.2 369.2,39.2 			"/>
+			<line class="st11" x1="367.8" y1="39.2" x2="364.9" y2="39.2"/>
+			<line class="st6" x1="364.2" y1="39.2" x2="362.7" y2="39.2"/>
+		</g>
+	</g>
+</g>
+</svg>
