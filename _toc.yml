@@ -76,6 +76,23 @@ parts:
               title: Les règles de sémiologie graphique
             - file: Geoinformatique_I/Carto/30-semiologie/5-esthetique.md
               title: Conseils esthétiques et pratiques
+        - file: Geoinformatique_I/Carto/40-indicateurs/0-index.md
+          title: Indicateurs
+        - file: Geoinformatique_I/Carto/50-discretisation/0-intro.md
+          title: Mise en classe / discrétisation
+          sections:
+            - file: Geoinformatique_I/Carto/50-discretisation/1-principe.md
+              title: Principe de base
+            - file: Geoinformatique_I/Carto/50-discretisation/2-distribution-statistique.md
+              title: Distribution statistique
+            - file: Geoinformatique_I/Carto/50-discretisation/3-methodes.md
+              title: Méthodes de discrétisation
+            - file: Geoinformatique_I/Carto/50-discretisation/4-discr-divergente.md
+              title: Mise en classe de valeurs divergentes
+            - file: Geoinformatique_I/Carto/50-discretisation/5-comparaison.md
+              title: Comparer plusieurs cartes
+            - file: Geoinformatique_I/Carto/50-discretisation/6-exemples.m
+              title: Exercices
     - file: Geoinformatique_I/IP/Intro_IP/intro_python.ipynb
       title: Programmation Python
       sections:

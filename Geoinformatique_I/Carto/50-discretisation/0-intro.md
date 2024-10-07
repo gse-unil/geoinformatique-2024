@@ -1,4 +1,4 @@
-# Discrétisation: définition
+# Mise en classe / discrétisation
 
 La **«discrétisation»** ou **«mise en classe»** permet de grouper les valeurs d'une variable numérique continue en classes homogènes afin de permettre une bonne perception de la carte et pour garantir la distinction entre tons de couleurs sur une carte (choroplèthe ou similaire).
 

@@ -1,4 +1,4 @@
-# Caractériser la distribution d'une variable
+# Distribution statistique
 
 Une **variable** est considérée ici comme étant une **série de valeurs**. On parlera aussi d'une **série statistique**. En conséquence, on parlera de la **distribution statistique** de la variable.
 
