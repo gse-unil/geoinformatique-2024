@@ -93,6 +93,11 @@ parts:
               title: Comparer plusieurs cartes
             - file: Geoinformatique_I/Carto/50-discretisation/6-exemples.m
               title: Exercices
+        - file: Geoinformatique_I/Carto/60-couleurs/0-intro.md
+          title: Couleur
+          sections:
+            - file: Geoinformatique_I/Carto/60-couleurs/1-couleur-en-carto.md
+              title: La couleur en cartographie
     - file: Geoinformatique_I/IP/Intro_IP/intro_python.ipynb
       title: Programmation Python
       sections:
