@@ -96,8 +96,12 @@ parts:
         - file: Geoinformatique_I/Carto/60-couleurs/0-intro.md
           title: Couleur
           sections:
-            - file: Geoinformatique_I/Carto/60-couleurs/1-couleur-en-carto.md
+            - file: Geoinformatique_I/Carto/60-couleurs/1-modeles-de-couleur.md
+              title: Modèles de couleurs
+            - file: Geoinformatique_I/Carto/60-couleurs/2-couleur-en-carto.md
               title: La couleur en cartographie
+        - file: Geoinformatique_I/Carto/71-graphisme/0-intro.md
+          title: Graphisme
     - file: Geoinformatique_I/IP/Intro_IP/intro_python.ipynb
       title: Programmation Python
       sections:
